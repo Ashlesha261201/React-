@@ -41,7 +41,7 @@
 
 // rootele.render(layout);
 
-// -----------------------------------------------------
+// -----------------JSX METHOD------------------------------------
 
 let divelement = document.getElementById("root");
 
